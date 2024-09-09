@@ -20,6 +20,7 @@
   "dependencies": {
     "@electron-toolkit/preload": "^3.0.1",
     "@electron-toolkit/utils": "^3.0.0",
+    "ant-design-vue": "^4.2.3",
     "electron-updater": "^6.1.7",
     "less": "^4.2.0",
     "vue-router": "^4.4.3"
